@@ -1,0 +1,2 @@
+/home/vagrant/anaconda3
+/home/vagrant/anaconda3/envs/my_env
