@@ -21,4 +21,4 @@ RUN . /opt/conda/etc/profile.d/conda.sh && \
     python${python_version} conda-pack \
     ${pkg} \
     ${extra_packages} 
-   # conda activate ${env_name}
+    conda activate ${env_name}
